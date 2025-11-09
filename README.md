@@ -52,14 +52,23 @@ Epoch 10, Loss: 0.1245
 
 
 predict("i really love it")
+
 predict("it is ok")
+
 predict("it is wonderful")
+
 predict("i do not like because it is awful")
+
 predict("it is bad")
 
+# Results
 
 Probability: 0.94, Label: positive 😀
+
 Probability: 0.55, Label: positive 😀
+
 Probability: 0.59, Label: positive 😀
+
 Probability: 0.21, Label: negative 😞
+
 Probability: 0.43, Label: negative 😞
