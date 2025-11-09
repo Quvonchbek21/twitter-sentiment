@@ -29,23 +29,34 @@ It uses **Natural Language Processing (NLP)** techniques and a **PyTorch LSTM mo
 
 5. **Training**
 Epoch 1, Loss: 0.6349
+
 Epoch 2, Loss: 0.4694
+
 Epoch 3, Loss: 0.3639
+
 Epoch 4, Loss: 0.2901
+
 Epoch 5, Loss: 0.2498
+
 Epoch 6, Loss: 0.1985
+
 Epoch 7, Loss: 0.1732
+
 Epoch 8, Loss: 0.1416
+
 Epoch 9, Loss: 0.1279
+
 Epoch 10, Loss: 0.1245
 
-6. **Prediction**
-   ```python
+7. **Prediction**
+
+
 predict("i really love it")
 predict("it is ok")
 predict("it is wonderful")
 predict("i do not like because it is awful")
 predict("it is bad")
+
 
 Probability: 0.94, Label: positive 😀
 Probability: 0.55, Label: positive 😀
