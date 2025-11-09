@@ -48,7 +48,9 @@ Epoch 9, Loss: 0.1279
 
 Epoch 10, Loss: 0.1245
 
-7. **Prediction**
+# Results
+
+ **Prediction**
 
 
 predict("i really love it")
@@ -61,7 +63,6 @@ predict("i do not like because it is awful")
 
 predict("it is bad")
 
-# Results
 
 Probability: 0.94, Label: positive 😀
 
